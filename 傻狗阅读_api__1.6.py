@@ -8,7 +8,7 @@
 #   * 自动提现可提现的最大值
 #   变量名:yuanshen_api
 withdraw_auto = True #是否自动提现 开启True 关闭False
-max_threads = 1 #最大线程数
+max_threads = 3 #最大线程数
 #   --------------------------------祈求区--------------------------------
 #                     _ooOoo_
 #                    o8888888o
